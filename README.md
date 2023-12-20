@@ -1,5 +1,8 @@
-# syscall
-Windows syscall
+# [syscall](https://github.com/MiFeng-super/syscall)
+
+[![LICENSE](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/MiFeng-super/syscall/blob/master/LICENSE)
+![Windows](https://img.shields.io/badge/Windows-XP%2B-orange)
+![Windows](https://img.shields.io/badge/Windows-X86%7CX64-%2523FFBCD9)
 
 ## 特性
 
