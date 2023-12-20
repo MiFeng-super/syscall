@@ -22,7 +22,7 @@
 
 ## 使用
 
-您只需将syscall添加到您的项目中，并包含`syscall_def.hpp`头文件。在`syscall_def.hpp`中定义所需调用的函数。
+您只需将[syscall](https://github.com/MiFeng-super/syscall/tree/master/src/syscall)添加到您的项目中，并包含`syscall_def.hpp`头文件。在`syscall_def.hpp`中定义所需调用的函数。
 
 ```C++
 namespace syscall 
